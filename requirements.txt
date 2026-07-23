@@ -1,5 +1,10 @@
-pypdf
+streamlit
+python-dotenv
 langchain
-upstage
+langchain-core
+langchain-text-splitters
+langchain-classic
+langchain-community
+langchain-upstage
+langchain-chroma
 chromadb
-tiktoken
